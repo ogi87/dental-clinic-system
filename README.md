@@ -1,1 +1,0 @@
-# Dental Clinic System
